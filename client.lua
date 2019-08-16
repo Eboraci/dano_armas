@@ -1,7 +1,7 @@
 
---------------------------------------
---DANO ARMAS (E SOCO) MELEE
---------------------------------------
+----------------------------------------------------------------------------
+--DANO ARMAS (E SOCO) MELEE ///// MELEE AND WEAPONS DAMAGE 
+----------------------------------------------------------------------------
 Citizen.CreateThread(function()
     while true do
 	N_0x4757f00bc6323cfe(GetHashKey("WEAPON_UNARMED"), 0.1) 
@@ -10,9 +10,9 @@ Citizen.CreateThread(function()
     	Wait(0)
     end
 end)
---------------------------------------
---DANO CORONHADA
---------------------------------------
+----------------------------------------------------------------------------
+--DANO CORONHADA //// PISTOL WHIPPING
+----------------------------------------------------------------------------
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
