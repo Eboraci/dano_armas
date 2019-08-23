@@ -1,4 +1,4 @@
-# dano_armas
+# Weapons_damage_fivem
 Simple script that removes pistol-whipping, melee damage and nightstick damage.
 If you wish to add more weapons to the script, it is very easy to do so, just follow the examples, but, if you want to add more than 3, i recommend you to create a dictionary inside it.
 This is my first public release, if you have any questions or ideas, let me know.
